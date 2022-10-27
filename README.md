@@ -42,6 +42,25 @@ Let's say you want to copy files with pdf extension from your Desktop to a USB d
 
 This will copy all PDF files inside your Desktop folder (sub directories included) to the USB Drive in a folder named _Desktop_. 
 
+### EXTENSION LIST
+
+![Screenshot](https://github.com/gelndjj/3Clicks/blob/main/img/3Click_extension2.png)
+
+**PDF** = '.pdf','. PDF'<br /><br />
+**TEXT** = '.txt', '.TXT', '.rtf', '.RTF'<br /><br />
+**MS OFFICE** = '.doc', '.DOC', '.docx', '.DOCX', '.xls', '.XSLX',
+                '.ppt', '.PPTX', '.one', '.ONE', '.ost', '.OST', '.pst', '.PST',
+                '.docm', '.DOCM', '.dot', '.DOT', '.dotm', '.DOTM', '.dotx', '.DOTX',
+                '.csv', '.CSV'<br /><br />
+**PICTURE** = '.jpeg', '.JPEG', '.jpg', '.JPG', '.png', '.PNG', '.gif', '.GIF',
+                '.heic', '.HEIC,', '.tiff', '.TIFF' ,'.psd', '.PSD' ,'.raw', '.RAW' ,'.dng', '.ai',
+                '.AI', '.bmp', '.BMP'<br /><br />
+**MUSIC**  = 'mp3', '.MP3', '.wav', '.WAV', '.aac', '.aac', '.m4a', '.M4A', '.ogg', '.OGG', '.flac',
+                '.FLAC', '.mid', '.MID'<br /><br />
+**VIDEO** = '.mp4', '.MP4', '.mov', '.MOV', '.wmv', '.WMV', '.avi', '.AVI', '.avch', '.AVCHD', '.flv',
+                '.FLV', '.f4v', '.F4V', '.mkv', '.MKV', '.webm', '.WEBM', '.mpg', '.MPG', '.mpeg', '.MPEG'<br /><br />
+**PY** = '.py', '.PY'<br />
+
 ### COPY TREE + DATA
 
 The tab _Copy tree + data_ simply allows you to copy/paste
