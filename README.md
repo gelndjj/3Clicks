@@ -53,9 +53,11 @@ The tab _Copy tree_ allows you to copy the tree of the source you chose. There w
 ### SCREENSHOTS
 * _MAC_
 
-![Screenshot]
+![Screenshot](https://github.com/gelndjj/3Clicks/blob/main/img/3Clicks_copytree.png)
 
-![Screenshot]
+![Screenshot](https://github.com/gelndjj/3Clicks/blob/main/img/3Clicks_summary.png)
+
+![Screenshot](https://github.com/gelndjj/3Clicks/blob/main/img/3Click_extension.png)
 
 ### REQUIREMENTS
 Running 3Clicks script only requires python
