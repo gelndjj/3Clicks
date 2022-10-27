@@ -207,7 +207,7 @@ def select_t2_d():
 def copy_files_ext():
     global root
     global cp_field
-    dict_ext = {'PDF': ('.pdf','PDF'),
+    dict_ext = {'PDF': ('.pdf','.PDF'),
                 'TEXT': ('.txt', '.TXT', '.rtf', '.RTF'),
                 'OFFICE': ('.doc', '.DOC', '.docx', '.DOCX', '.xls', '.XSLX',
                 '.ppt', '.PPTX', '.one', '.ONE', '.ost', '.OST', '.pst', '.PST',
