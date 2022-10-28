@@ -10,10 +10,10 @@ _Small soft that can copy tree, data and files by extension_
 ```
 
 ### SUMMARY
-This small soft can copy :
-1 - Tree (directories without files)
-2 - All the data from a source to an destination you choose
-3 - Copy files by extensions.
+This small soft can copy :<br />
+1 - Tree (directories without files)<br />
+2 - All the data from a source to an destination you choose<br />
+3 - Copy files by extensions.<br />
 
 ### HOW IT WORKS
 * Once you have selected the right tab :
